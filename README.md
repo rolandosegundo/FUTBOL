@@ -1,10 +1,7 @@
 #EXTM3U
 
 ############################## TV LATINO 1 #########################################
-#EXTINF:-1 FUTBOL
-http://clubtv.link/iptv/24f/tvpremium.php?c=3193&f=.m3u8
-#EXTINF:-1 FUTBOL
-http://clubtv.link/iptv/24f/tvpremium.php?c=3215&f=.m3u8
+
 #EXTINF:-1 FUTBOL 2
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8?mvk
 #EXTINF:-1 FUTBOL 3
